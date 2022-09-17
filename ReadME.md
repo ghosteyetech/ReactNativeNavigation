@@ -24,7 +24,7 @@ $ ps -ax | grep emulator
 $ kill -9 <pid>
 ```
 
-## To esolve issue with adding stack navigation with drawer need to update babel.config.js as follows
+## To resolve issue with adding stack navigation with drawer need to update babel.config.js as follows
 
 ```
 module.exports = function (api) {
